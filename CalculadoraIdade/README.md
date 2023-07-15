@@ -5,4 +5,4 @@
 Utilizar a biblioteca Swing para criar a tela interativa.
 </b>
 
-<src> img = "https://github.com/brunobonatini/Java-Development/blob/main/CalculadoraIdade/tela.png"
+<src img> = "https://github.com/brunobonatini/Java-Development/blob/main/CalculadoraIdade/tela.png"
