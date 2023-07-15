@@ -3,6 +3,7 @@
 <b>Escreva um programa que repita a leitura de uma senha até que ela seja válida.</b>
 
 Código:
+
 import java.util.Scanner;
 
 public class AutenticadorSenha {
