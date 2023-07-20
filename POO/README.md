@@ -1,4 +1,4 @@
-# Repositório destinado a Programação Orientada à Objetos
+# Repositório destinado a Programação Orientada a Objetos
 
 Este repositório tem como objetivo mostrar os conceitos e a prática do que é a Programação Orientada a Objetos.
 
