@@ -4,7 +4,7 @@ Este repositório tem como objetivo mostrar os conceitos e a prática do que é 
 
 A programação orientada a objetos (POO) é um paradigma de programação que organiza e estrutura o código de um programa em torno de objetos, em vez de funções e lógica de controle tradicional. Nesse paradigma, os objetos são entidades que representam elementos do mundo real ou abstrações, possuindo características (atributos) e comportamentos (métodos) associados.
 
-Os principais conceitos da programação orientada a objetos são:
+## Os principais conceitos da programação orientada a objetos são:
 
 Classe: É uma espécie de "modelo" ou "planta" que define a estrutura e o comportamento dos objetos. A classe é uma abstração que descreve quais atributos o objeto terá e quais ações ele pode realizar.
 
@@ -20,4 +20,4 @@ Herança: Permite criar novas classes a partir de classes existentes, aproveitan
 
 Polimorfismo: É a capacidade de um objeto se comportar de maneiras diferentes em contextos diferentes. Em outras palavras, objetos de classes diferentes podem responder a uma mesma chamada de método, produzindo resultados apropriados para cada um.
 
-A programação orientada a objetos é amplamente utilizada em diversas linguagens de programação, como Java, Python, C++, C#, entre outras. Ela oferece uma forma organizada e modular de desenvolver software, facilitando a manutenção, a escalabilidade e a extensibilidade dos programas.
+A programação orientada a objetos oferece uma forma organizada e modular de desenvolver software, facilitando a manutenção, a escalabilidade e a extensibilidade dos programas.
