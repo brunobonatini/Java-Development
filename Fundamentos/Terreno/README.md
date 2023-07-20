@@ -3,6 +3,7 @@
 ## Objetivo do programa é calcular o valor do metro² de acordo com a área de um terreno.
 
 import java.util.Locale;
+
 import java.util.Scanner;
 
 public class Terreno {
