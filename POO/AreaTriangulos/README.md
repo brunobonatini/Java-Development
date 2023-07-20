@@ -60,23 +60,19 @@ public class AreaTriangulos {
 
 package entities;
 
-// Criando a classe
-
-public class Triangulo {
+public class Triangulo { // Criando a classe
 
 	public double ladoA;
 	public double ladoB;
 	public double ladoC;
 
- // Criando o método
- 
-	public double area() {
+ 	public double area() { // Criando o método
 		double p = (ladoA + ladoB + ladoC) / 2.0;
 		double result = Math.sqrt(p * (p - ladoA) * (p - ladoB) * (p - ladoC));
 		return result;		
 	}
 
-	}
+}
 
 
 
