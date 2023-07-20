@@ -1,8 +1,6 @@
 # Programa:
 
-## Faça um programa que leia o número do dia da semana e mostre qual o dia representa o número digitado.
-## Se o número digitado não corresponder a um dia da semana, informa "Dia Inválido".
-## Utilize Switch Case para fazer o programa
+## Faça um programa que leia o número do dia da semana e mostre qual o dia representa o número digitado. Se o número digitado não corresponder a um dia da semana, informa "Dia Inválido". Utilize Switch Case para fazer o programa
 
 import java.util.Scanner;
 
