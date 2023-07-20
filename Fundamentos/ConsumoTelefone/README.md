@@ -6,6 +6,7 @@ O valor base de sua conta é 50.00 por 100 minutos. Para cada minuto ultrapassad
 Código:</b>
 
 import java.util.Locale;
+
 import java.util.Scanner;
 
 public class ConsumoTelefone {
