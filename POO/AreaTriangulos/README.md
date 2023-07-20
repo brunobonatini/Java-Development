@@ -61,6 +61,7 @@ public class AreaTriangulos {
 package entities;
 
 // Criando a classe
+
 public class Triangulo {
 
 	public double ladoA;
@@ -68,6 +69,7 @@ public class Triangulo {
 	public double ladoC;
 
  // Criando o método
+ 
 	public double area() {
 		double p = (ladoA + ladoB + ladoC) / 2.0;
 		double result = Math.sqrt(p * (p - ladoA) * (p - ladoB) * (p - ladoC));
