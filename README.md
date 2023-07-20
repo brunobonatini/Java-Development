@@ -15,7 +15,7 @@
 * Funções matemáticas
 * Estrutura condicional (if, else, else if)
 * Estrutura de repetição (while, do while, for)
-* Programação Orientada à Objetos
+* Programação Orientada a Objetos
 * Construtores, this, sobrecarga e encapsulamento
 * Lista, Arrays
 * Data e Hora
