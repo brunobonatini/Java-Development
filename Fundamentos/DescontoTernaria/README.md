@@ -4,6 +4,7 @@
 ## Se o preço for menor que R$ 20,00 aplicar o desconto de 10%, caso contrário aplicar 5%.
 
 import java.util.Locale;
+
 import java.util.Scanner;
 
 public class DescontoTernaria {
