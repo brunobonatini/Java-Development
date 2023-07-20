@@ -8,6 +8,7 @@ Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conf
 Código:</b>
 
 import java.util.Locale;
+
 import java.util.Scanner;
 
 public class Coordenadas {
