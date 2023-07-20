@@ -34,7 +34,7 @@ public class AreaTriangulos {
 		y.ladoB = input.nextDouble();
 		y.ladoC = input.nextDouble();
 
-		//Importando o método area criado na classe Triangulo e atribuindo na variável
+		// Importando o método area criado na classe Triangulo e atribuindo na variável
 		double areaX = x.area();	
 		double areaY = y.area();
 		
