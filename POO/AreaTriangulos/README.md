@@ -1,6 +1,6 @@
 # Repositório destinado a Programação Orientada à Objetos
 
-Este repositório tem como objetivo mostrar os conceitos e a prática do que é a Programação Orientada à Objetos.
+Este repositório tem como objetivo mostrar os conceitos e a prática do que é a Programação Orientada a Objetos.
 
 A programação orientada a objetos (POO) é um paradigma de programação que organiza e estrutura o código de um programa em torno de objetos, em vez de funções e lógica de controle tradicional. Nesse paradigma, os objetos são entidades que representam elementos do mundo real ou abstrações, possuindo características (atributos) e comportamentos (métodos) associados.
 
