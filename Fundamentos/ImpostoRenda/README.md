@@ -3,6 +3,7 @@
 ## Objeto do programa é calcular o valor do imposto que o funcionário deve pagar de acordo com seu salário mensal.
 
 import java.util.Locale;
+
 import java.util.Scanner;
 
 public class ImpostoRenda {
