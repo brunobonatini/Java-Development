@@ -1,7 +1,6 @@
 # Programa:
 
-## Faça um programa que leia o preço de um produto e calcule o seu desconto de acordo com a condição:
-## Se o preço for menor que R$ 20,00 aplicar o desconto de 10%, caso contrário aplicar 5%.
+## Faça um programa que leia o preço de um produto e calcule o seu desconto de acordo com a condição: Se o preço for menor que R$ 20,00 aplicar o desconto de 10%, caso contrário aplicar 5%.
 
 import java.util.Locale;
 
