@@ -1,7 +1,9 @@
 # Programa
 
 Objetivo do programa é solicitar ao usuário que entre com um produto, seu valor e sua quantidade em estoque.
+
 O programa irá solicitar que o usuário entre com as quantidades a serem adicionadas e também removidas do estoque.
+
 O programa deve mostrar o Nome do produto, sua quantidade e o valor total dos itens em estoque atualizados.
 
 Criar uma classe Produto com as ações de adicionar e remover as quantidades conforme a solicitação do usuário.
