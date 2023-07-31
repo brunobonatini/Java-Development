@@ -82,3 +82,5 @@ public class Product { // Criando a classe
 			
 	}
 }
+
+<img src = "https://github.com/brunobonatini/Java-Development/blob/main/POO/Estoque/estoque.png">
