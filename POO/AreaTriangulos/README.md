@@ -3,6 +3,8 @@
 <b>Fazer um programa para ler as medidas dos lados de dois triângulos X e Y (suponha medidas válidas). 
 Em seguida, mostrar o valor das áreas dos dois triângulos e dizer qual dos dois triângulos possui a maior área.</b>
 
+<img src="https://github.com/brunobonatini/Java-Development/blob/main/POO/AreaTriangulos/classe.png">
+
 # Utilização da programação orientada a objetos
 
 ## Aplicação principal
