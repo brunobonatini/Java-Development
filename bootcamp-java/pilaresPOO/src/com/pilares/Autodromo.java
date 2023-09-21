@@ -1,0 +1,21 @@
+package com.pilares;
+
+public class Autodromo {
+
+	public static void main(String[] args) {
+		
+		Carro carro = new Carro();
+		carro.setChassi("1234");
+		// carro.ligar();
+		
+		Moto moto = new Moto();
+		moto.setChassi("5678");
+		// moto.ligar();
+		
+		// polimorfismo
+		Veiculo coringa = carro;
+		coringa.ligar();
+
+	}
+
+}

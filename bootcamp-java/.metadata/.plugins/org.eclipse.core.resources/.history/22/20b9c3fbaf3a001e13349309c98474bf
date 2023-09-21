@@ -1,0 +1,21 @@
+
+public class SistemaMensagemInstantanea {
+	
+	public void enviarMensagem() {
+		validarConexao(); //encapsulamento
+		System.out.println("Enviando mensagem pelo Messenger...");
+		salvarHistorico(); //encapsulamento
+	}
+	public void receberMensagem() {
+		System.out.println("Recebendo mensagem pelo Messenger...");
+	}
+	//encapsulando função (método visível somente na classe)
+	private void validarConexao() {
+		System.out.println("Validando conexão...");
+	}
+	//encapsulando função (método visível somente na classe)
+	private void salvarHistorico() {
+		System.out.println("Salvando histórico de mensagens...");
+	}
+
+}

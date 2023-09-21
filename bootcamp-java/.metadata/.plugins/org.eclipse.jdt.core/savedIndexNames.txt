@@ -1,0 +1,10 @@
+INDEX VERSION 1.134+C:\Development\Workspace\trilha-java\.metadata\.plugins\org.eclipse.jdt.core
+2769065930.index
+435225591.index
+2152572727.index
+339453082.index
+4193855592.index
+1865797976.index
+4201948818.index
+3879911367.index
+648266803.index

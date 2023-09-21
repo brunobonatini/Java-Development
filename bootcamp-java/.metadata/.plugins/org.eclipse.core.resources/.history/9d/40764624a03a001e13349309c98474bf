@@ -1,0 +1,15 @@
+package com.pilares;
+
+public class Carro {
+	
+	public void ligar() {
+		System.out.println("Carro Ligado");
+	}
+	public void confereCambio() {
+		System.out.println("Confere Cambio em P");
+	}
+	public void confereCombustivel() {
+		System.out.println("Confere Combustivel");
+	}
+
+}

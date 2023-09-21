@@ -1,0 +1,21 @@
+
+public class Computador {
+
+	public static void main(String[] args) {
+		
+		SistemaMensagemInstantanea smi = null;
+		
+		String appEscolhido = " ";
+		
+		if (appEscolhido.equals("msn"))
+			smi = new Messenger();
+		else if (appEscolhido.equals("facebook"))
+			smi = new Facebook();
+		else if (appEscolhido.equals("telegram"))
+			smi = new Telegram();
+		
+		smi.enviarMensagem();
+		smi.receberMensagem();
+	}
+
+}

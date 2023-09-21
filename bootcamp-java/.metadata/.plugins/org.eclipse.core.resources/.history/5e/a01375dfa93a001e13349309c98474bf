@@ -1,0 +1,16 @@
+
+public class Computador {
+
+	public static void main(String[] args) {
+		
+		// abrindo o Messenger
+		Messenger msn = new Messenger();
+		
+		msn.validarConexao();
+		msn.enviarMensagem();
+		msn.salvarHistorico();
+		msn.receberMensagem();
+
+	}
+
+}

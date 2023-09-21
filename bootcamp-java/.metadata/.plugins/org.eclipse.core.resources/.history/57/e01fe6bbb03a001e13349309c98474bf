@@ -1,0 +1,21 @@
+
+public class Computador {
+
+	public static void main(String[] args) {
+		
+		// abrindo o Messenger
+		Messenger msn = new Messenger();
+		msn.enviarMensagem();
+		msn.receberMensagem();
+		
+		Facebook face = new Facebook();
+		face.enviarMensagem();
+		face.receberMensagem();
+		
+		Telegram telegram = new Telegram();
+		telegram.enviarMensagem();
+		telegram.receberMensagem();
+
+	}
+
+}

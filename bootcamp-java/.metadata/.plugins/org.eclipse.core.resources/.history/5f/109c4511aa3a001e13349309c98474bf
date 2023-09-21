@@ -1,0 +1,21 @@
+
+public class Messenger {
+	
+	public void enviarMensagem() {
+		validarConexao(); //encapsulamento
+		System.out.println("Enviando mensagem...");
+		salvarHistorico(); //encapsulamento
+	}
+	public void receberMensagem() {
+		System.out.println("Recebendo mensagem...");
+	}
+	//encapsulando função
+	private void validarConexao() {
+		System.out.println("Validando conexão...");
+	}
+	//encapsulando função
+	private void salvarHistorico() {
+		System.out.println("Salvando histórico de mensagens...");
+	}
+
+}

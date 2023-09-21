@@ -1,0 +1,14 @@
+package com.escola;
+
+public class Escola {
+	
+	public static void main(String[] args) {
+		
+		Aluno bruno = new Aluno();
+		bruno.nome = "Bruno";
+		bruno.idade = 36;
+		
+		System.out.printf("O aluno %s tem %n ano.", bruno.nome, bruno.idade);
+	}
+
+}

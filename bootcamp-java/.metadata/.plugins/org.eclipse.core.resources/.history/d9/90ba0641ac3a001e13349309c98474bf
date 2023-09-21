@@ -1,0 +1,15 @@
+
+public class Computador {
+
+	public static void main(String[] args) {
+		
+		// abrindo o Messenger
+		Messenger msn = new Messenger();
+		
+		msn.enviarMensagem();
+		
+		msn.receberMensagem();
+
+	}
+
+}
